@@ -1,2 +1,2 @@
-# quantumAlliance
+# QuantumAlliance
 The Quantum Alliance
